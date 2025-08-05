@@ -12,3 +12,5 @@ Você pode preencher o tabuleiro manualmente ou passar uma matriz inicial via **
 1. Compile o projeto com:
    ```bash
    javac src/*.java
+
+ 
